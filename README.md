@@ -13,7 +13,7 @@ A Modern Restaurant Landing PageRestaura is a sleek and modern restaurant landin
 -Fast & Lightweight ⚡ - Optimized for performance and user experience
 
 ## 📷 Preview
-https://xora-fawn.vercel.app/
+https://restaura-henna.vercel.app/
 
 ## 🛠️ Tech Stack
 -React.js - Frontend library for building UI components
